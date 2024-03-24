@@ -27,7 +27,7 @@ IDR_MAINMENU MENU
 // RT_DIALOG
 
 IDD_MAIN DIALOG 0, 0, 285, 160
-CAPTION "Pico Pico Plan Ver.1.0"
+CAPTION "Pico Pico Project Ver.1.1"
 STYLE DS_CENTER | DS_MODALFRAME | WS_POPUPWINDOW | WS_CAPTION | WS_MINIMIZEBOX
 FONT 9, "MS Shell Dlg"
 {
@@ -57,9 +57,9 @@ IDI_MAIN ICON "res/1033_Icon_1.ico"
 
 STRINGTABLE
 {
-    IDS_TITLE, "Pico Pico Plan Ver.1.0"
+    IDS_TITLE, "Pico Pico Project Ver.1.1"
     IDS_NONE, "(None)"
-    IDS_TIP, "Pico Pico Plan Ver.1.0"
+    IDS_TIP, "Pico Pico Project Ver.1.1"
 }
 
 //////////////////////////////////////////////////////////////////////////////
